@@ -14,6 +14,11 @@ En esta primera pieza del ciclo se emula el proceso de alienación humana, celeb
     </audio>
 
 ### Audio 2
+
+<audio controls style="width: 80%; padding: 0.5%">
+        <source src="https://github.com/mezaga/guitar_VAE/raw/main/versiones_viejas/folder/dataset_examples/Bridge_6-0.wav">
+    </audio>
+
 ## non-Human
 
 non-Human 									11’ 25’’
