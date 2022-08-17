@@ -3,6 +3,7 @@
 
 En esta página se puede encontrar todos los recursos audiovisuales y de código de mi trabajo Entrelazados: el posthumanismo en la música electroacústica desarrollado en la ENES Morelia como parte de mi exámen de titulación en la licenciatura de Música y Tecnología Artística.
 # Herramientas de partida
+[[https://github.com/mezaga/entrelazados/blob/1f70368b12eaad5e72bdcb3526fdab9a95c08a7a/random_walk.scd]]
 ```
 ~valores = 71;
 ~datos = Array.exprand(11,1,100).sort;
