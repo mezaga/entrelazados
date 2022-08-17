@@ -2,6 +2,8 @@
 # Entrelazados
 
 En esta página se puede encontrar todos los recursos audiovisuales y de código de mi trabajo Entrelazados: el posthumanismo en la música electroacústica desarrollado en la ENES Morelia como parte de mi exámen de titulación en la licenciatura de Música y Tecnología Artística.
+# Herramientas de partida
+[[]]
 
 ## Alienación
 Preludio (Alienación)                      					10’ 26’’
