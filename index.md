@@ -84,8 +84,8 @@ Acorde Xeno
     </audio>
 
 ### Audio 2
-<audio controls style="width: 80%; padding: 0.5%">
-        <source src="https://github.com/mezaga/guitar_VAE/raw/main/versiones_viejas/folder/dataset_examples/Bridge_6-0.wav">
+<audio controls style="width: 100%; padding: 0.5%">
+        <source src="/Users/mezaga93/entrelazados/textura_inhuman3.mp3">
     </audio>
 
 ## non-Human
