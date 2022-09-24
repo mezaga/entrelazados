@@ -8,7 +8,7 @@ En esta página se puede encontrar todos los recursos audiovisuales y de código
 
 ## Piezas
 
-1. Alienación
+1. **Alienación**
 2. in-Human
 3. LCSE
 4. Intertwined
