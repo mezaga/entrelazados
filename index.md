@@ -4,6 +4,15 @@
 # Entrelazados
 
 En esta página se puede encontrar todos los recursos audiovisuales y de código de mi trabajo Entrelazados: el posthumanismo en la música electroacústica desarrollado en la ENES Morelia como parte de mi exámen de titulación en la licenciatura de Música y Tecnología Artística.
+
+
+##Piezas
+
+1. Alienación
+2. in-Human
+3. LCSE
+4. Intertwined
+5
 # Herramientas de partida
 [https://github.com/mezaga/entrelazados/blob/1f70368b12eaad5e72bdcb3526fdab9a95c08a7a/random_walk.scd]
 ```
@@ -114,12 +123,6 @@ transacordes
         <source src="https://github.com/mezaga/entrelazados/blob/main/XENO_ACORDE_VOCES.mp3">
     </audio>
 
-##Piezas
-
-1. Alienación
-2. in-Human
-3. LCSE
-4. Intertwined
 
 <audio controls style="width: 20%; padding: 0.5%">
         <source src="https://github.com/mezaga/guitar_VAE/raw/main/versiones_viejas/folder/dataset_examples/Bridge_6-0.wav">
