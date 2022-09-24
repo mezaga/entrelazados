@@ -10,19 +10,11 @@ En esta página se puede encontrar todos los recursos audiovisuales y de código
 
 ## Piezas
 
-1. [**Alienación**](pages/preludio.md)
-2. [**non-Human**](pages/non-Human.md)
-3. LCSE
-4. Intertwined
-
-Entrelazados es un ciclo de cuatro piezas electrónicas que se encuentra enmarcado en las figuras y teorías posthumanistas con la finalidad de crear estructuras y relaciones sonoras en composiciones electroacústicas originales. El comienzo de la investigación presenta un vínculo entre los conceptos de cyborg de Donna Haraway, la transcorporeidad de Stacy Alaimo, la relación de agentes artificiales con el lenguaje de Negarestani, la voz y la síntesis del habla. El documento estructuralmente muestra los pasos preliminares a la composición del ciclo y el proceso de la investigación artística dividido por piezas. En cada sección se muestran los hallazgos propios de cada una de ellas, las implementaciones tecnológicas desarrolladas y su vínculo con las figuras de humano, máquina y naturaleza y un análisis musical. A continuación se hará un recuento de lo antes mencionado.La primera pieza del ciclo es Preludio (Alienación), donde se explora el concepto de alienación posthumana, el cual se lleva a cabo a través de la  alianza del  humano con  la naturaleza y la tecnología. Del lado práctico, se explora la relación armónica de estructuras fonéticas, al utilizar sus elementos constituyentes como bloques acordales y proponiendo la superposición de sílabas para articular la metáfora de un lenguaje incorpóreo tecnológico. A la par, se realizaron en el software SuperCollider algoritmos de selección pseudoaleatoria para crear atmósferas de incomodidad y presagio.En non-Human se plantea la asimilación de los patrones intrínsecos del poema sonoro UrSonate de Kurt Schwitters. Para esto se programó en SuperCollider un programa que utiliza cadenas de Markov para analizar el texto y posteriormente generar textos a partir de una semilla aleatoria que contengan la misma estructura con la opción de reemplazar los caracteres. En esta pieza a manera general, se trabaja la idea de simetrías y contrapuntos estructurales permitiendo a las figuras sonoras interrelacionarse de una forma autocontenida que en ocasiones parece desbordarse. La tercera pieza del ciclo, Los Cíborgs son Éter (LCSE), explora la relación humano-máquina desde la perspectiva transversal de la transcorporeidad, esta idea se pone en marcha  a través de la utilización de un sistema interactivo musical. Este sistema fue proveído de una memoria procedimental que consiste en un ajuste probabilístico para simular un proceso de memoria primitivo que vislumbra una relación más horizontal entre el intérprete y el sistema. Asimismo,  se explora la relación de agencia, meta-agencia y zonas de contacto a través de procesos de síntesis híbridos, en su mayoría técnicas granulares. La pieza compuesta tiene forma de rondó donde se alternan atmósferas de paisaje sonoro con secciones de improvisación. A pesar de ser una obra con improvisación, aleatorismo y de reconfiguración constante a nivel supraestructural, su carácter y esencia de refugio, zona de contacto y entrelazamiento para el cyborg y seres encarnados en espacios no intervenidos por el hombre permanece como una constante a lo largo de la pieza. Finalmente, Intertwined es la última pieza del proyecto dónde se trabaja el término de intra-acción de Karen Barad  el cual contempla la agencia como un dinamismo de fuerzas. A partir de esta idea se realizó una sistematización de los materiales sonoros presentes en las tres piezas anteriores para crear agentes musicales que poseen comportamientos de autonomía, imitación, difracción, influencia e intercambio en el contexto de la pieza. Para articular esta metáfora se utilizaron herramientas capaces de extraer información tímbrica de los sonidos compuestos y agruparlos según sus características. Esto dio como resultado la creación de una pieza de carácter meditativo donde los sonidos se integran y transicionan lentamente de uno a otro. 
-
-
-
-![image](https://user-images.githubusercontent.com/31640735/192111835-510f3092-03d5-44f3-afc1-85a95a58ba05.png)
-
-
-
+1. [**Preludio(Alienación)**](pages/preludio.md)
+3. [**non-Human**](pages/non-Human.md)
+4. [**LCSE**](pages/LCSE.md)
+5. [**Intertwined**](pages/intertwined.md)
+5
 # Herramientas de partida
 [https://github.com/mezaga/entrelazados/blob/1f70368b12eaad5e72bdcb3526fdab9a95c08a7a/random_walk.scd]
 ```
