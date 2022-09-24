@@ -6,7 +6,7 @@
 En esta página se puede encontrar todos los recursos audiovisuales y de código de mi trabajo Entrelazados: el posthumanismo en la música electroacústica desarrollado en la ENES Morelia como parte de mi exámen de titulación en la licenciatura de Música y Tecnología Artística.
 
 
-##Piezas
+## Piezas
 
 1. Alienación
 2. in-Human
