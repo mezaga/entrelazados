@@ -11,7 +11,7 @@ En esta página se puede encontrar todos los recursos audiovisuales y de código
 ## Piezas
 
 1. [**Alienación**](pages/preludio.md)
-2. in-Human
+2. [**non-Human**](pages/non-Human.md)
 3. LCSE
 4. Intertwined
 5
