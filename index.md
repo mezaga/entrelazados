@@ -1,6 +1,8 @@
 
 <img src="assets/Captura de Pantalla 2022-06-29 a la(s) 13.00.04.png" alt="drawing" width="1000"/>
 
+
+
 # Entrelazados
 
 En esta página se puede encontrar todos los recursos audiovisuales y de código de mi trabajo Entrelazados: el posthumanismo en la música electroacústica desarrollado en la ENES Morelia como parte de mi exámen de titulación en la licenciatura de Música y Tecnología Artística.
