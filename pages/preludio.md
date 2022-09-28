@@ -7,4 +7,4 @@ En esta primera pieza del ciclo se emula el proceso de alienación humana, celeb
 
 ![](https://github.com/mezaga/entrelazados/blob/75e3a92ebd31d9e5f0b82facfa4f624a86907057/assets/Alienacion3@4x%20(1).png)
 
-<img src="https://github.com/mezaga/entrelazados/blob/75e3a92ebd31d9e5f0b82facfa4f624a86907057/assets/Alienacion3@4x%20(1).png">
+<img src="https://github.com/mezaga/entrelazados/blob/75e3a92ebd31d9e5f0b82facfa4f624a86907057/assets/Alienacion3@4x%20(1).png" width="1000">
