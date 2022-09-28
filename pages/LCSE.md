@@ -6,4 +6,5 @@ Los Ciborgs Son Éter (LCSE) busca presentar al cyborg del ciclo emancipado y te
 
 
 
-<img src="https://github.com/mezaga/entrelazados/blob/c193f7adc6940dd4a6a3d020ce61f91a5e13aec0/assets/red_trans.png">
+<img src="../assets/red_trans.png">
+
