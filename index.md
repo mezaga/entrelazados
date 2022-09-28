@@ -129,6 +129,7 @@ En el ámbito del ciclo, esta pieza hace referencia a múltiples elementos sonor
 
 <img src="assets/forma_intert@4x.png" alt="drawing" width="1000"/>
 
+<img src="assets/red_trans.png" alt="drawing" width="1000"/>
 
 ### Audio 1
 transacordes
