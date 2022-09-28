@@ -14,7 +14,7 @@ En esta página se puede encontrar todos los recursos audiovisuales y de código
 3. [**non-Human**](pages/non-Human.md)
 4. [**LCSE**](pages/LCSE.md)
 5. [**Intertwined**](pages/intertwined.md)
-5
+
 # Herramientas de partida
 [https://github.com/mezaga/entrelazados/blob/1f70368b12eaad5e72bdcb3526fdab9a95c08a7a/random_walk.scd]
 ```
