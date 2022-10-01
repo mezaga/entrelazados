@@ -7,3 +7,14 @@ En esta primera pieza del ciclo se emula el proceso de alienación humana, celeb
 
 
 <img src="../assets/Alienacion3@4x%20(1).png" alt="drawing" width="1000">
+
+### Audio 1
+Acorde Xeno
+<audio controls style="width: 100%; padding: 0.5%">
+        <source src="https://github.com/mezaga/entrelazados/blob/main/XENO_ACORDE_VOCES.mp3">
+    </audio>
+### Audio 2
+Acorde Xeno
+<audio controls style="width: 100%; padding: 0.5%">
+        <source src="https://github.com/mezaga/entrelazados/blob/main/XENO_ACORDE_VOCES.mp3">
+    </audio>
