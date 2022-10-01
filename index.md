@@ -25,7 +25,7 @@ Nota:  Tomado de Two-dimensional formant chart of the vowels with their (abiolog
 En una segunda etapa se realizaron las grabaciones , análisis de las vocales y consonantes presentes del Alfabeto Internacional Fonético (IPA) (Fig. 3 y 4) y un código en SuperCollider que selecciona los fonemas consonantes de manera aleatoria. La aleatoriedad es controlada por medio de la distribución de probabilidades para cada zona de articulación fonética . Esta distribución es modificada con cada selección del algoritmo a través de la rotación de la lista comenzando con tendencia hacia la glotis y terminando con mayor probabilidad a las consonantes bilabiales (Fig. 5). 
 
 <img src="../assets/Figura3 Herramientas de partida .png" alt="drawing" width="1000">
-Nota. La figura ilustra la interfaz gráfica de Praat con los formantes,  las envolventes de amplitud y altura tomados en cuenta para el análisis tanto de vocales como de consonantes.
+<sub>Nota. La figura ilustra la interfaz gráfica de Praat con los formantes,  las envolventes de amplitud y altura tomados en cuenta para el análisis tanto de vocales como de consonantes.</sub>
 
 <img src="../assets/Figura4 Herramientas de partida .png" alt="drawing" width="1000">
 Nota. Esta figura muestra el análisis de altura (F) y formantes (1, 2, 3, 4) de algunas de las vocales grabadas por una mujer traducidas a notas en sus respectivos registros y su reducción a octava.
