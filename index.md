@@ -21,6 +21,7 @@ El desarrollo del proceso de composición del ciclo comienza con la generación 
 <img src="../assets/Figura2 Herramientas de partida.png" alt="drawing" width="1000">
 Nota:  Tomado de Two-dimensional formant chart of the vowels with their (abiological) F1 mirror images de Clarence Barlow (p. 58), 2012, On Musiquantics.
 
+
 En una segunda etapa se realizaron las grabaciones , análisis de las vocales y consonantes presentes del Alfabeto Internacional Fonético (IPA) (Fig. 3 y 4) y un código en SuperCollider que selecciona los fonemas consonantes de manera aleatoria. La aleatoriedad es controlada por medio de la distribución de probabilidades para cada zona de articulación fonética . Esta distribución es modificada con cada selección del algoritmo a través de la rotación de la lista comenzando con tendencia hacia la glotis y terminando con mayor probabilidad a las consonantes bilabiales (Fig. 5). 
 
 <img src="../assets/Figura3 Herramientas de partida .png" alt="drawing" width="1000">
@@ -32,6 +33,7 @@ Nota. Esta figura muestra el análisis de altura (F) y formantes (1, 2, 3, 4) de
 <img src="../assets/Figura5 Herramientas de partida .png" alt="drawing" width="1000">
 Nota. Esta distribución de probabilidades fue implementada en SuperCollider con un arreglo multidimensional que se homologa con las zonas del aparato fonador en su primera dimensión. Cada índice contiene todos los fonemas que pueden ser emitidos en esa zona. Una vez seleccionado el índice aleatoriamente, se selecciona nuevamente un fonema al azar dentro de todos los pertenecientes a esa zona.
 
+
 Otra herramienta desarrollada fue la implementación de caminatas aleatorias  sobre la lista de vocales. El sistema es capaz de realizar caminatas aleatorias en una dimensión variando el tamaño del paso, número de pasos, semilla y punto de llegada (Fig. 6 y Fig. 7). 
 
 <img src="../assets/Figura6 Herramientas de partida .png" alt="drawing" width="1000">
@@ -40,12 +42,14 @@ Nota. Visualización de múltiples caminatas aleatorias en una dimensión en Sup
 <img src="../assets/Figura7 Herramientas de partida .png" alt="drawing" width="1000">
 Nota.  Resultado del algoritmo de caminata aleatoria aplicado a la lista de formantes de las vocales.
 
+
 También se realizó una homologación de la colocación de la lengua y la abertura de la mandíbula para emitir las vocales en el aparato fonador y sus partes con posiciones en el espacio (Fig. 8).
 
 <img src="../assets/Figura8 Herramientas de partida .png" alt="drawing" width="1000">
 Nota. En la figura se realiza una homologación entre la posición de la lengua (eje horizontal) y la apertura de la mandíbula (eje vertical) con posiciones en un arreglo de bocinas multicanal.
 
+
 Esta etapa previa a la composición me permitió adquirir un conocimiento más práctico sobre el aparato fonador, las características tímbricas de las vocales, las consonantes y al mismo tiempo comenzar a imaginar  y diseñar los primeros elementos del universo sonoro del ciclo (Fig. 9).
 
 <img src="../assets/Figura9 Herramientas de partida .png" alt="drawing" width="1000">
-Nota. Lluvia de ideas y bosquejo de las ideas iniciales para cada pieza del ciclo y la interconexión de materiales e ideas a través de las piezas.![image](https://user-images.githubusercontent.com/31640735/193426118-f772251c-20ee-49ba-b21c-4e0c776188b6.png)
+Nota. Lluvia de ideas y bosquejo de las ideas iniciales para cada pieza del ciclo y la interconexión de materiales e ideas a través de las piezas.
