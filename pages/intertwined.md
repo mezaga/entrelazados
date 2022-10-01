@@ -6,3 +6,14 @@ En el ámbito del ciclo, esta pieza hace referencia a múltiples elementos sonor
 
 
 <img src="../assets/forma_intert@4x.png" alt="drawing" width="1000">
+
+### Audio 6
+Acorde Xeno
+<audio controls style="width: 100%; padding: 0.5%">
+        <source src="https://github.com/mezaga/entrelazados/blob/main/XENO_ACORDE_VOCES.mp3">
+    </audio>
+### Audio 7
+Acorde Xeno
+<audio controls style="width: 100%; padding: 0.5%">
+        <source src="https://github.com/mezaga/entrelazados/blob/main/XENO_ACORDE_VOCES.mp3">
+    </audio>
