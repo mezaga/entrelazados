@@ -22,6 +22,7 @@ El desarrollo del proceso de composición del ciclo comienza con la generación 
 <sub>Nota:  Tomado de Two-dimensional formant chart of the vowels with their (abiological) F1 mirror images de Clarence Barlow (p. 58), 2012, On Musiquantics.</sub>
 
 
+
 En una segunda etapa se realizaron las grabaciones , análisis de las vocales y consonantes presentes del Alfabeto Internacional Fonético (IPA) (Fig. 3 y 4) y un código en SuperCollider que selecciona los fonemas consonantes de manera aleatoria. La aleatoriedad es controlada por medio de la distribución de probabilidades para cada zona de articulación fonética . Esta distribución es modificada con cada selección del algoritmo a través de la rotación de la lista comenzando con tendencia hacia la glotis y terminando con mayor probabilidad a las consonantes bilabiales (Fig. 5). 
 
 <img src="../assets/Figura3 Herramientas de partida .png" alt="drawing" width="1000">
