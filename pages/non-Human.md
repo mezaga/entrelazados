@@ -8,7 +8,7 @@ non-Human es una pieza que plantea la asimilación y creación de un lenguaje po
 <img src="../assets/diagrama3_nonhuman@4x.png" alt="drawing" width="1000">
 
 ### Audio 3
-Acorde Xeno
+Sonificación
 <audio controls style="width: 100%; padding: 0.5%">
         <source src="https://github.com/mezaga/entrelazados/blob/main/XENO_ACORDE_VOCES.mp3">
     </audio>
