@@ -9,12 +9,12 @@ Los Ciborgs Son Éter (LCSE) busca presentar al cyborg del ciclo emancipado y te
 <img src="../assets/red_trans.png" alt="drawing" width="1000">
 
 ### Audio 4
-Acorde Xeno
+Nubes granulares
 <audio controls style="width: 100%; padding: 0.5%">
         <source src="https://github.com/mezaga/entrelazados/blob/main/XENO_ACORDE_VOCES.mp3">
     </audio>
 ### Audio 5
-Acorde Xeno
+Cueva
 <audio controls style="width: 100%; padding: 0.5%">
         <source src="https://github.com/mezaga/entrelazados/blob/main/XENO_ACORDE_VOCES.mp3">
     </audio>
