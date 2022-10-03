@@ -21,7 +21,7 @@ El desarrollo del proceso de composición del ciclo comienza con la generación 
 <img src="../assets/Alienacion3@4x%20(1).png" alt="drawing" width="1000">
 
 
-<img src="../assets/Alienacion3@4x%20(1).png" alt="drawing" width="1000">
+<img src="/assets/Alienacion.png" alt="drawing" width="1000">
 
 <sub> Nota:  Tomado de Two-dimensional formant chart of the vowels with their (abiological) F1 mirror images de Clarence Barlow (p. 58), 2012, On Musiquantics.</sub>
 
