@@ -11,7 +11,7 @@ En esta primera pieza del ciclo se emula el proceso de alienación humana, celeb
 ### Audio 1
 Acorde Xeno
 <audio controls style="width: 100%; padding: 0.5%">
-        <source src="https://github.com/mezaga/entrelazados/blob/3a3fed12decb72398f96dd07944f896c7cd6dc00/audios/XENO_ACORDE_VOCES.mp3">
+        <source src="../audios/XENO_ACORDE_VOCES.mp3">
     </audio>
 ### Audio 2
 Textura Inhuman
