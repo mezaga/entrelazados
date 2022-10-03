@@ -16,5 +16,5 @@ Acorde Xeno
 ### Audio 2
 Textura Inhuman
 <audio controls style="width: 100%; padding: 0.5%">
-        <source src="https://github.com/mezaga/entrelazados/blob/main/XENO_ACORDE_VOCES.mp3">
+        <source src="/audios/textura_inhuman3 (1).mp3">
     </audio>
