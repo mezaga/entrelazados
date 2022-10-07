@@ -16,5 +16,5 @@ Nubes granulares
 ### Audio 5
 Cueva
 <audio controls style="width: 100%; padding: 0.5%">
-        <source src="https://github.com/mezaga/entrelazados/blob/main/XENO_ACORDE_VOCES.mp3">
+        <source src="../audios/intro_LCSE.mp3">
     </audio>
