@@ -9,6 +9,7 @@ non-Human es una pieza que plantea la asimilación y creación de un lenguaje po
 
 ### Audio 3
 Sonificación
+
 <audio controls style="width: 100%; padding: 0.5%">
-        <source src="https://github.com/mezaga/entrelazados/blob/main/XENO_ACORDE_VOCES.mp3">
+        <source src="../audios/sonificacion.mp3">
     </audio>
