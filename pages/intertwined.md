@@ -15,5 +15,5 @@ Alianza
 ### Audio 7
 Filtrado de formantes
 <audio controls style="width: 100%; padding: 0.5%">
-        <source src="https://github.com/mezaga/entrelazados/blob/main/XENO_ACORDE_VOCES.mp3">
+        <source src="../audios/filtrado_formantes.mp3">
     </audio>
